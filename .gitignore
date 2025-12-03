@@ -1,0 +1,33 @@
+
+#Python
+__pycache__/
+*pd[cod]
+#Virtual environments
+.venv/
+venv/
+.env
+#Juypter
+.ipynb_checkpoints/
+#IDE/OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.iml
+*.iws
+*.ipr
+.idea/modules.xml
+.idea/workspace.xml
+data/
+*.parquet
+*.feather
+*.pkl
+*.pickle
+src/
+outputs/
+*.log
+*.pyc
+
+# Secrets
+.env
+.env.*

@@ -23,7 +23,7 @@ data/
 *.feather
 *.pkl
 *.pickle
-src/
+
 outputs/
 *.log
 *.pyc
